@@ -31,3 +31,5 @@ https://docs.google.com/presentation/d/1GzSh25tFeX_LhtVDYZupDYdQYYmTaiNrgqSWMHrv
 https://hashcat.net/hashcat/ Advanced password recovery, Nicole G https://github.com/ngonzalezgonzalez26/HASHCAT-TOOLBOX/tree/main
 
 https://mxtoolbox.com/ allows users to find information on domains such as dns lookups and emial server tests
+
+https://www.kali.org/get-kali/ Kali Linux open source os designed for pen testing, security testing, auditing, etc... (Tyler Brogna)
